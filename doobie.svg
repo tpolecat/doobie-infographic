@@ -1,399 +1,557 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="-1224 -493 1989 1503" width="1989pt" height="1503pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <metadata> Produced by OmniGraffle 7.3.1 
-    <dc:date>2017-08-23 00:22:42 +0000</dc:date>
-  </metadata>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="-1224 -493 1989 1503" width="1989" height="1503">
   <defs>
-    <font-face font-family="Fira Code" font-size="27" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="500">
+    <font-face font-family="Fira Code" font-size="27" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="400">
       <font-face-src>
         <font-face-name name="FiraCode-Regular"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Fira Code" font-size="16" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="500">
+    <font-face font-family="Fira Code" font-size="16" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="400">
       <font-face-src>
         <font-face-name name="FiraCode-Regular"/>
       </font-face-src>
     </font-face>
-    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
         <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
       <g>
         <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face font-family="Fira Code" font-size="22" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="500">
+    <font-face font-family="Fira Code" font-size="22" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="400">
       <font-face-src>
         <font-face-name name="FiraCode-Regular"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Times New Roman" font-size="22" panose-1="2 2 5 3 5 4 5 9 3 4" units-per-em="1000" underline-position="-108.88672" underline-thickness="48.828125" slope="-742.40875" x-height="430.1758" cap-height="662.1094" ascent="891.1133" descent="-216.3086" font-style="italic" font-weight="500">
+    <font-face font-family="Times New Roman" font-size="22" panose-1="2 2 5 3 5 4 5 9 3 4" units-per-em="1000" underline-position="-108.88672" underline-thickness="48.828125" slope="-742.40875" x-height="430.1758" cap-height="662.1094" ascent="891.1133" descent="-216.3086" font-style="italic" font-weight="400">
       <font-face-src>
         <font-face-name name="TimesNewRomanPS-ItalicMT"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Helvetica Neue" font-size="41" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="bold">
+    <font-face font-family="Helvetica Neue" font-size="41" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
       <font-face-src>
         <font-face-name name="HelveticaNeue-Bold"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Fira Code" font-size="17" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="500">
+    <font-face font-family="Fira Code" font-size="17" panose-1="2 11 5 9 5 0 0 2 0 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="539" cap-height="701" ascent="935.0019" descent="-265.00054" font-weight="400">
       <font-face-src>
         <font-face-name name="FiraCode-Regular"/>
       </font-face-src>
     </font-face>
   </defs>
-  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+  <metadata> Produced by OmniGraffle 7.7.1 
+    <dc:date>2017-08-23 00:22:42 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" fill-opacity="1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none">
     <title>Canvas 1</title>
-    <rect fill="white" width="1989" height="1503"/>
-    <g>
+    <g id="Canvas_1: Layer 1">
       <title>Layer 1</title>
-      <rect x="-1044" y="711" width="796.9459" height="189" fill="#f0f0f0"/>
-      <rect x="-987.7528" y="297" width="942.7528" height="342" fill="#f0f0f0"/>
-      <rect x="-792" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="-792" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-787 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">A</tspan>
-      </text>
-      <text transform="translate(-787 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="-702" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="-702" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-697 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">B</tspan>
-      </text>
-      <text transform="translate(-697 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="-612" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="-612" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-607 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">C</tspan>
-      </text>
-      <text transform="translate(-607 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="-522" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="-522" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-517 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">D</tspan>
-      </text>
-      <text transform="translate(-517 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="-432" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="-432" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-427 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">E</tspan>
-      </text>
-      <text transform="translate(-427 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="-342" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="-342" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-337 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">F</tspan>
-      </text>
-      <text transform="translate(-337 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="-783" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M -783 -341.5 L -729 -341.5 L -729 -287.5 L -783 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-778 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="13.9" y="25" textLength="16.2">a</tspan>
-      </text>
-      <rect x="-693" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M -693 -341.5 L -639 -341.5 L -639 -287.5 L -693 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-688 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="13.9" y="25" textLength="16.2">b</tspan>
-      </text>
-      <rect x="-603" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M -603 -341.5 L -549 -341.5 L -549 -287.5 L -603 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-598 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="13.9" y="25" textLength="16.2">c</tspan>
-      </text>
-      <rect x="-513" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M -513 -341.5 L -459 -341.5 L -459 -287.5 L -513 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-508 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="13.9" y="25" textLength="16.2">d</tspan>
-      </text>
-      <rect x="-423" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M -423 -341.5 L -369 -341.5 L -369 -287.5 L -423 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-418 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="13.9" y="25" textLength="16.2">e</tspan>
-      </text>
-      <rect x="-333" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M -333 -341.5 L -279 -341.5 L -279 -287.5 L -333 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-328 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="13.9" y="25" textLength="16.2">f</tspan>
-      </text>
-      <line x1="-756" y1="-287" x2="-756" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-666" y1="-287" x2="-666" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-576" y1="-287" x2="-576" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-486" y1="-287" x2="-486" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-396" y1="-287" x2="-396" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-306" y1="-287" x2="-306" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-931 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="36.8" y="25" textLength="97.2">SELECT</tspan>
-      </text>
-      <text transform="translate(-724 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="4.9" y="25" textLength="16.2">,</tspan>
-      </text>
-      <text transform="translate(-634 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="4.9" y="25" textLength="16.2">,</tspan>
-      </text>
-      <text transform="translate(-544 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="4.9" y="25" textLength="16.2">,</tspan>
-      </text>
-      <text transform="translate(-454 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="4.9" y="25" textLength="16.2">,</tspan>
-      </text>
-      <text transform="translate(-364 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="4.9" y="25" textLength="16.2">,</tspan>
-      </text>
-      <text transform="translate(-274 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="9.4" y="25" textLength="259.2">FROM … WHERE x =</tspan>
-      </text>
-      <rect x="0" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="0" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(5 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">G</tspan>
-      </text>
-      <text transform="translate(5 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="9" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M 9 -341.5 L 63 -341.5 L 63 -287.5 L 9 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(14 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="5.8" y="25" textLength="32.4">$g</tspan>
-      </text>
-      <line x1="36.00001" y1="-277.1" x2="36.00001" y2="-216.5" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(68 -326.5)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="10.3" y="25" textLength="113.4">AND y &lt;</tspan>
-      </text>
-      <rect x="198" y="-216" width="72" height="72" fill="#ffc0ff"/>
-      <rect x="198" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(203 -206)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="22.9" y="25" textLength="16.2">H</tspan>
-      </text>
-      <text transform="translate(203 -168.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="11.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <rect x="207" y="-341.5" width="54" height="54" fill="white"/>
-      <path d="M 207 -341.5 L 261 -341.5 L 261 -287.5 L 207 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(212 -327)" fill="#009c11">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#009c11" x="5.8" y="25" textLength="32.4">$h</tspan>
-      </text>
-      <line x1="234" y1="-277.1" x2="234" y2="-216.5" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="-459" y="-72" width="126" height="72" fill="#c0c0ff"/>
-      <rect x="-459" y="-72" width="126" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-454 -62)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="1.3" y="25" textLength="113.4">(D,E,F)</tspan>
-      </text>
-      <text transform="translate(-445 -23)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="5.8" y="15" textLength="86.4">Composite</tspan>
-      </text>
-      <line x1="-463.2456" y1="-143.57595" x2="-424.04156" y2="-80.82012" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-396.01083" y1="-143.5" x2="-396.02896" y2="-82.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-328.7756" y1="-143.57606" x2="-368.0175" y2="-80.81825" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="-621" y="-72" width="99" height="72" fill="#c0c0ff"/>
-      <rect x="-621" y="-72" width="99" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-616 -62)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="36.4" y="25" textLength="16.2">C</tspan>
-      </text>
-      <text transform="translate(-616 -23)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="1.3" y="15" textLength="86.4">Composite</tspan>
-      </text>
-      <line x1="-574.8594" y1="-143.50024" x2="-572.94984" y2="-82.39493" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="-756" y="-72" width="99" height="72" fill="#c0c0ff"/>
-      <rect x="-756" y="-72" width="99" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-751 -62)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="4" y="25" textLength="81">(A,B)</tspan>
-      </text>
-      <text transform="translate(-751 -24.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="1.3" y="15" textLength="86.4">Composite</tspan>
-      </text>
-      <line x1="-676.2587" y1="-143.51867" x2="-693.5546" y2="-82.01167" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-743.46075" y1="-143.52716" x2="-722.2512" y2="-81.83503" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="-693" y="72" width="306" height="72" fill="#c0c0ff"/>
-      <rect x="-693" y="72" width="306" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-688 82)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="10.3" y="25" textLength="275.4">((A,B),C,(D,E,F))</tspan>
-      </text>
-      <text transform="translate(-679 119.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="91.3" y="15" textLength="86.4">Composite</tspan>
-      </text>
-      <line x1="-664.4985" y1=".32708364" x2="-589.4961" y2="65.19669" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-563.51995" y1=".488455" x2="-550.1023" y2="61.840155" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="-432.3553" y1=".35354496" x2="-496.65103" y2="64.64623" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="-63" y="-72" width="198" height="72" fill="#c0ffc0"/>
-      <rect x="-63" y="-72" width="198" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-58 -62)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="13" y="25" textLength="162">G::H::HNil</tspan>
-      </text>
-      <text transform="translate(-49 -24.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="61" y="15" textLength="48">Param</tspan>
-      </text>
-      <line x1="36.00134" y1="-72.5" x2="36.003587" y2="-133.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <line x1="85.90463" y1="-72.294085" x2="189.58913" y2="-147.7006" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-1219 -211)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="92.4">Meta[A]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="92.4" y="21" textLength="265.77246"> defines the mapping between </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="48" textLength="325.01562">a JDBC/schema type and Scala type </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="325.01562" y="48" textLength="13.2">A</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="338.21562" y="48" textLength="5.5">.</tspan>
-      </text>
-      <line x1="-846" y1="-181.29032" x2="-792" y2="-180.51613" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
-      <text transform="translate(-1219 -76)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="211.2">Composite[(A,B)]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="211.2" y="21" textLength="188.19238"> defines the mapping </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="48" textLength="314.04785">between a column vector and pairs </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="314.04785" y="48" textLength="66">(A,B)</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="380.04785" y="48" textLength="5.5"> </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="75" textLength="32.376953">via </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="32.376953" y="75" textLength="92.4">Meta[A]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="124.77695" y="75" textLength="44"> and </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="168.77695" y="75" textLength="92.4">Meta[B]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="261.17695" y="75" textLength="5.5">.</tspan>
-      </text>
-      <line x1="-819" y1="-35.82143" x2="-756" y2="-35.92143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
-      <text transform="translate(-198.43062 41.06543)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="224.4">Param[G::H::HNil]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="224.4" y="21" textLength="188.19238"> defines the mapping </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="47" textLength="168.65234">between a list of ar</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="167.83594" y="47" textLength="289.65234">guments and a underlying list of </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="73.93457" textLength="199.18164">query parameters, via </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="199.18164" y="73.93457" textLength="92.4">Meta[G]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="291.58164" y="73.93457" textLength="44"> and </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="335.58164" y="73.93457" textLength="105.6">Meta[H].</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="126.93457" textLength="64.796875">Thus a </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="64.796875" y="126.93457" textLength="52.8">Meta</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="117.59688" y="126.93457" textLength="113.05078"> instance is r</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="229.83125" y="126.93457" textLength="46.438477">equir</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="275.45332" y="126.93457" textLength="104.46777">ed for each </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="152.93457" textLength="260.2832">interpolated query parameter</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="257.84473" y="152.93457" textLength="5.5">.</tspan>
-      </text>
-      <line x1="36.29827" y1="36" x2="36.149136" y2="0" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
-      <text transform="translate(-1219 59.098145)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="118.8">Composite</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="118.8" y="21" textLength="257.22168"> instances compose, yielding </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="47" textLength="339.72168">mappings between underlying column </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="72.93457" textLength="142.96777">vectors and incr</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="142.15137" y="72.93457" textLength="148.48926">easingly structur</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="289.82422" y="72.93457" textLength="70.87695">ed data </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="98.86914" textLength="50.703125">types.</tspan>
-      </text>
-      <line x1="-828" y1="110.07407" x2="-693" y2="109.10185" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
-      <text transform="translate(-1030 -327)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="black" x="69.2" y="25" textLength="64.8">sql&quot;</tspan>
-      </text>
-      <text transform="translate(266 -327)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="black" x="0" y="25" textLength="129.6">&quot;.query[</tspan>
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="#323587" x="129.6" y="25" textLength="275.4">((A,B),C,(D,E,F))</tspan>
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" fill="black" x="405" y="25" textLength="16.2">]</tspan>
-      </text>
-      <line x1="396" y1="-288" x2="666" y2="-288" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <path d="M -497.2661 144.32382 L -400.5072 226.5689 M -392.12585 233.69302 L -360 261 L -239.5 261 M -228.5 261 L 540 261 L 540.16654 -288" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <text transform="translate(-1219 -487.59464)" fill="black">
-        <tspan font-family="Helvetica Neue" font-size="41" font-weight="bold" x="0" y="40" textLength="521.561">anatomy of a doobie query</tspan>
-      </text>
-      <rect x="324" y="-116" width="441" height="116" fill="white"/>
-      <text transform="translate(329 -110.93457)" fill="black">
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="21" textLength="13.438477">A</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="13.041016" y="21" textLength="5.5"> </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="18.541016" y="21" textLength="118.8">Composite</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="137.34102" y="21" textLength="113.05078"> instance is r</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="249.5754" y="21" textLength="46.438477">equir</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="295.19746" y="21" textLength="89.81543">ed for the </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="47" textLength="57.41699">query’</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="54.581055" y="47" textLength="75.76465">s type ar</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="129.5293" y="47" textLength="303.08008">gument, which means it must be a </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="72.93457" textLength="414.83105">type that can be flattened into a column vector </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="99.86914" textLength="43.39844">with </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="43.39844" y="99.86914" textLength="52.8">Meta</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="96.19844" y="99.86914" textLength="286.5586"> instances for each data member</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="380.31855" y="99.86914" textLength="5.5">.</tspan>
-      </text>
-      <text transform="translate(-652 473.13086)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="52.8">Meta</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="52.8" y="21" textLength="112.43848"> instances ar</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="164.42207" y="21" textLength="34.82617">e pr</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="198.43184" y="21" textLength="217.54004">ovided for all supported </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="47" textLength="319.5586">JDBC types, as well as some vendor</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="319.11816" y="47" textLength="80.01855">-specific </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="72.93457" textLength="68.43848">types. Y</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="66.418945" y="72.93457" textLength="369.68164">ou can also define your own, either using </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="98.86914" textLength="396.56934">low-level constructors or by mapping to and </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="124.80371" textLength="14.673828">fr</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="13.857422" y="124.80371" textLength="212.63086">om an existing instance.</tspan>
-      </text>
-      <path d="M -306 -144 L -306 152 L -432 261 L -434.0239 468" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
-      <text transform="translate(-382 329.06543)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="66">Param</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="66" y="21" textLength="112.43848"> instances ar</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="177.62207" y="21" textLength="117.90625">e derived for </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="47" textLength="299.37402">any sequence of types (or options </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="73.93457" textLength="35.438477">ther</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="34.62207" y="73.93457" textLength="126.45703">eof) that have </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="161.0791" y="73.93457" textLength="52.8">Meta</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="213.8791" y="73.93457" textLength="5.5"> </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="99.93457" textLength="87.37695">instances.</tspan>
-      </text>
-      <path d="M -63 -36 L -234 -36 L -234 324" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,4"/>
-      <text transform="translate(-960.4096 329.0327)" fill="black">
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="21" textLength="118.8">Composite</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="118.8" y="21" textLength="112.43848"> instances ar</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="230.42207" y="21" textLength="240.73242">e derived for all types with </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="48" textLength="52.8">Meta</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="52.8" y="48" textLength="296.3877"> instances, as well as options ther</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="348.3713" y="48" textLength="126.46777">eof. Instances </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="74" textLength="19.561523">ar</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="18.745117" y="74" textLength="444.2217">e then derived for tuples, HLists, and case classes </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="100.93457" textLength="192.45703">whose members have </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="192.45703" y="100.93457" textLength="118.8">Composite</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="311.25703" y="100.93457" textLength="92.87695"> instances.</tspan>
-      </text>
-      <path d="M -585 144 L -720 252 L -718.8467 324" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
-      <rect x="-895.0541" y="732" width="216" height="72" fill="#ffc0ff"/>
-      <rect x="-895.0541" y="732" width="216" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-890.0541 742)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="13.9" y="25" textLength="178.2">Array[Byte]</tspan>
-      </text>
-      <text transform="translate(-881.0541 779.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="74.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <text transform="translate(-621.97015 743)" fill="black">
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="21" textLength="58.0293">Given </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="58.0293" y="21" textLength="92.4">Meta[A]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="150.4293" y="21" textLength="191.2754"> and functions to and </tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="0" y="48" textLength="14.673828">fr</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="13.857422" y="48" textLength="177.18164">om some other type </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="191.03906" y="48" textLength="13.2">B</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="204.23906" y="48" textLength="133.1709"> we can derive </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="0" y="75" textLength="92.4">Meta[B]</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="92.4" y="75" textLength="37.876953"> via </tspan>
-        <tspan font-family="Fira Code" font-size="22" font-weight="500" x="130.27695" y="75" textLength="52.8">imap</tspan>
-        <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="500" x="183.07695" y="75" textLength="5.5">.</tspan>
-      </text>
-      <rect x="-895.0541" y="937" width="216" height="72" fill="#ffc0ff"/>
-      <rect x="-895.0541" y="937" width="216" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <text transform="translate(-890.0541 947)" fill="black">
-        <tspan font-family="Fira Code" font-size="27" font-weight="500" x="13.9" y="25" textLength="178.2">InetAddress</tspan>
-      </text>
-      <text transform="translate(-881.0541 984.5)" fill="black">
-        <tspan font-family="Fira Code" font-size="16" font-weight="500" x="74.8" y="15" textLength="38.4">Meta</tspan>
-      </text>
-      <line x1="-787.0541" y1="814.4" x2="-787.0541" y2="926.6" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
-      <rect x="-1029.0299" y="855" width="469" height="31" fill="#efefef"/>
-      <text transform="translate(-1024.0299 860)" fill="black">
-        <tspan font-family="Fira Code" font-size="17" font-weight="500" x="0" y="16" textLength="459">.imap(InetAddress.getByAddress)(_.getAddress)</tspan>
-      </text>
-      <line x1="-434.3555" y1="609" x2="-433.701" y2="738" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" stroke-dasharray="1,3"/>
+      <g id="Graphic_93">
+        <rect x="-1044" y="711" width="796.9459" height="189" fill="#f0f0f0"/>
+      </g>
+      <g id="Graphic_92">
+        <rect x="-987.7528" y="297" width="942.7528" height="342" fill="#f0f0f0"/>
+      </g>
+      <g id="Graphic_91">
+        <rect x="-792" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="-792" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-787 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">A</tspan>
+        </text>
+      </g>
+      <g id="Graphic_90">
+        <text transform="translate(-787 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_89">
+        <rect x="-702" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="-702" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-697 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">B</tspan>
+        </text>
+      </g>
+      <g id="Graphic_88">
+        <text transform="translate(-697 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_87">
+        <rect x="-612" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="-612" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-607 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">C</tspan>
+        </text>
+      </g>
+      <g id="Graphic_86">
+        <text transform="translate(-607 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_85">
+        <rect x="-522" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="-522" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-517 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">D</tspan>
+        </text>
+      </g>
+      <g id="Graphic_84">
+        <text transform="translate(-517 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_83">
+        <rect x="-432" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="-432" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-427 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">E</tspan>
+        </text>
+      </g>
+      <g id="Graphic_82">
+        <text transform="translate(-427 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_81">
+        <rect x="-342" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="-342" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-337 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">F</tspan>
+        </text>
+      </g>
+      <g id="Graphic_80">
+        <text transform="translate(-337 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_79">
+        <rect x="-783" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M -783 -341.5 L -729 -341.5 L -729 -287.5 L -783 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(-778 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="13.9" y="25">a</tspan>
+        </text>
+      </g>
+      <g id="Graphic_78">
+        <rect x="-693" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M -693 -341.5 L -639 -341.5 L -639 -287.5 L -693 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(-688 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="13.9" y="25">b</tspan>
+        </text>
+      </g>
+      <g id="Graphic_77">
+        <rect x="-603" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M -603 -341.5 L -549 -341.5 L -549 -287.5 L -603 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(-598 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="13.9" y="25">c</tspan>
+        </text>
+      </g>
+      <g id="Graphic_76">
+        <rect x="-513" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M -513 -341.5 L -459 -341.5 L -459 -287.5 L -513 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(-508 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="13.9" y="25">d</tspan>
+        </text>
+      </g>
+      <g id="Graphic_75">
+        <rect x="-423" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M -423 -341.5 L -369 -341.5 L -369 -287.5 L -423 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(-418 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="13.9" y="25">e</tspan>
+        </text>
+      </g>
+      <g id="Graphic_74">
+        <rect x="-333" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M -333 -341.5 L -279 -341.5 L -279 -287.5 L -333 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(-328 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="13.9" y="25">f</tspan>
+        </text>
+      </g>
+      <g id="Line_73">
+        <line x1="-756" y1="-287" x2="-756" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_72">
+        <line x1="-666" y1="-287" x2="-666" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_71">
+        <line x1="-576" y1="-287" x2="-576" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_70">
+        <line x1="-486" y1="-287" x2="-486" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_69">
+        <line x1="-396" y1="-287" x2="-396" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_68">
+        <line x1="-306" y1="-287" x2="-306" y2="-226.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_67">
+        <text transform="translate(-931 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="36.8" y="25">SELECT</tspan>
+        </text>
+      </g>
+      <g id="Graphic_66">
+        <text transform="translate(-724 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="4.9" y="25">,</tspan>
+        </text>
+      </g>
+      <g id="Graphic_65">
+        <text transform="translate(-634 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="4.9" y="25">,</tspan>
+        </text>
+      </g>
+      <g id="Graphic_64">
+        <text transform="translate(-544 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="4.9" y="25">,</tspan>
+        </text>
+      </g>
+      <g id="Graphic_63">
+        <text transform="translate(-454 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="4.9" y="25">,</tspan>
+        </text>
+      </g>
+      <g id="Graphic_62">
+        <text transform="translate(-364 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="4.9" y="25">,</tspan>
+        </text>
+      </g>
+      <g id="Graphic_61">
+        <text transform="translate(-274 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="9.4" y="25">FROM … WHERE x =</tspan>
+        </text>
+      </g>
+      <g id="Graphic_60">
+        <rect x="0" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="0" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(5 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">G</tspan>
+        </text>
+      </g>
+      <g id="Graphic_59">
+        <text transform="translate(5 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_58">
+        <rect x="9" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M 9 -341.5 L 63 -341.5 L 63 -287.5 L 9 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(14 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="5.8" y="25">$g</tspan>
+        </text>
+      </g>
+      <g id="Line_57">
+        <line x1="36.00001" y1="-277.1" x2="36.00001" y2="-216.5" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_56">
+        <text transform="translate(68 -326.5)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="10.3" y="25">AND y &lt;</tspan>
+        </text>
+      </g>
+      <g id="Graphic_55">
+        <rect x="198" y="-216" width="72" height="72" fill="#ffc0ff"/>
+        <rect x="198" y="-216" width="72" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(203 -206)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="22.9" y="25">H</tspan>
+        </text>
+      </g>
+      <g id="Graphic_54">
+        <text transform="translate(203 -168.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="11.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_53">
+        <rect x="207" y="-341.5" width="54" height="54" fill="white"/>
+        <path d="M 207 -341.5 L 261 -341.5 L 261 -287.5 L 207 -287.5 Z" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+        <text transform="translate(212 -327)" fill="#009c11">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#009c11" x="5.8" y="25">$h</tspan>
+        </text>
+      </g>
+      <g id="Line_52">
+        <line x1="234" y1="-277.1" x2="234" y2="-216.5" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_51">
+        <rect x="-459" y="-72" width="126" height="72" fill="#c0c0ff"/>
+        <rect x="-459" y="-72" width="126" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-454 -62)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="1.3" y="25">(D,E,F)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_50">
+        <text transform="translate(-445 -23)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="5.8" y="15">Composite</tspan>
+        </text>
+      </g>
+      <g id="Line_49">
+        <line x1="-463.2362" y1="-143.576" x2="-424.0154" y2="-80.81929" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_48">
+        <line x1="-396.00125" y1="-143.5" x2="-396.00334" y2="-82.4" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_47">
+        <line x1="-328.7662" y1="-143.576" x2="-367.9914" y2="-80.819075" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_46">
+        <rect x="-621" y="-72" width="99" height="72" fill="#c0c0ff"/>
+        <rect x="-621" y="-72" width="99" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-616 -62)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="36.4" y="25">C</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(-616 -23)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="1.3" y="15">Composite</tspan>
+        </text>
+      </g>
+      <g id="Line_44">
+        <line x1="-574.8594" y1="-143.50024" x2="-572.94984" y2="-82.39493" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_43">
+        <rect x="-756" y="-72" width="99" height="72" fill="#c0c0ff"/>
+        <rect x="-756" y="-72" width="99" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-751 -62)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="4" y="25">(A,B)</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(-751 -24.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="1.3" y="15">Composite</tspan>
+        </text>
+      </g>
+      <g id="Line_41">
+        <line x1="-676.2602" y1="-143.51867" x2="-693.5587" y2="-82.01158" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_40">
+        <line x1="-743.4623" y1="-143.52716" x2="-722.2553" y2="-81.83513" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_39">
+        <rect x="-693" y="72" width="306" height="72" fill="#c0c0ff"/>
+        <rect x="-693" y="72" width="306" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-688 82)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="10.3" y="25">((A,B),C,(D,E,F))</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <text transform="translate(-679 119.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="91.3" y="15">Composite</tspan>
+        </text>
+      </g>
+      <g id="Line_37">
+        <line x1="-664.497" y1=".32707684" x2="-589.49174" y2="65.196805" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_36">
+        <line x1="-563.51836" y1=".4884506" x2="-550.098" y2="61.84023" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_35">
+        <line x1="-432.35375" y1=".35355243" x2="-496.64665" y2="64.646106" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_34">
+        <rect x="-63" y="-72" width="198" height="72" fill="#c0ffc0"/>
+        <rect x="-63" y="-72" width="198" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-58 -62)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="13" y="25">G::H::HNil</tspan>
+        </text>
+      </g>
+      <g id="Graphic_33">
+        <text transform="translate(-49 -24.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="61" y="15">Param</tspan>
+        </text>
+      </g>
+      <g id="Line_32">
+        <line x1="36.000155" y1="-72.5" x2="36.000413" y2="-133.6" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_31">
+        <line x1="85.90439" y1="-72.29409" x2="189.58914" y2="-147.70115" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(-1219 -211)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Meta[A]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> defines the mapping between </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="48">a JDBC/schema type and Scala type </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="48">A</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="48">.</tspan>
+        </text>
+      </g>
+      <g id="Line_29">
+        <line x1="-846" y1="-181.29032" x2="-792" y2="-180.51613" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <text transform="translate(-1219 -76)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Composite[(A,B)]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> defines the mapping </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="48">between a column vector and pairs </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="48">(A,B)</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="48"> </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="75">via </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="75">Meta[A]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="75"> and </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="75">Meta[B]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="75">.</tspan>
+        </text>
+      </g>
+      <g id="Line_27">
+        <line x1="-819" y1="-35.82143" x2="-756" y2="-35.92143" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_26">
+        <text transform="translate(-198.43062 41.06543)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Param[G::H::HNil]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> defines the mapping </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="47">between a list of arguments and a underlying list of </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="73.93457">query parameters, via </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="73.93457">Meta[G]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="73.93457"> and </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="73.93457">Meta[H].</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="126.93457">Thus a </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="126.93457">Meta</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="126.93457"> instance is required for each </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="152.93457">interpolated query parameter.</tspan>
+        </text>
+      </g>
+      <g id="Line_25">
+        <line x1="36.29827" y1="36" x2="36.149136" y2="0" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_24">
+        <text transform="translate(-1219 59.098145)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Composite</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> instances compose, yielding </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="47">mappings between underlying column </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="72.93457">vectors and increasingly structured data </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="98.86914">types.</tspan>
+        </text>
+      </g>
+      <g id="Line_23">
+        <line x1="-828" y1="110.07407" x2="-693" y2="109.10185" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22">
+        <text transform="translate(-1030 -327)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="69.2" y="25">sql&quot;</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <text transform="translate(266 -327)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="0" y="25">&quot;.query[</tspan>
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="#323587" y="25">((A,B),C,(D,E,F))</tspan>
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" y="25">]</tspan>
+        </text>
+      </g>
+      <g id="Line_20">
+        <line x1="396" y1="-288" x2="666" y2="-288" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+      </g>
+      <g id="Line_19">
+        <path d="M -497.2661 144.32382 L -400.5072 226.5689 M -392.12585 233.69302 L -360 261 L -239.5 261 M -228.5 261 L 540 261 L 540.16654 -288" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_18">
+        <text transform="translate(-1219 -487.59464)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="41" font-weight="700" fill="black" x="0" y="40">anatomy of a doobie query</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <rect x="324" y="-116" width="441" height="116" fill="white"/>
+        <text transform="translate(329 -110.93457)" fill="black">
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="21">A </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="21">Composite</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> instance is required for the </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="47">query’s type argument, which means it must be a </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="72.93457">type that can be flattened into a column vector </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="99.86914">with </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="99.86914">Meta</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="99.86914"> instances for each data member.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_16">
+        <text transform="translate(-652 473.13086)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Meta</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> instances are provided for all supported </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="47">JDBC types, as well as some vendor-specific </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="72.93457">types. You can also define your own, either using </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="98.86914">low-level constructors or by mapping to and </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="124.80371">from an existing instance.</tspan>
+        </text>
+      </g>
+      <g id="Line_15">
+        <path d="M -306 -144 L -306 152 L -432 261 L -434.0239 468" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_14">
+        <text transform="translate(-382 329.06543)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Param</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> instances are derived for </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="47">any sequence of types (or options </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="73.93457">thereof) that have </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="73.93457">Meta</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="73.93457"> </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="99.93457">instances.</tspan>
+        </text>
+      </g>
+      <g id="Line_13">
+        <path d="M -63 -36 L -234 -36 L -234 324" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_12">
+        <text transform="translate(-960.4096 329.0327)" fill="black">
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="21">Composite</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> instances are derived for all types with </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="48">Meta</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="48"> instances, as well as options thereof. Instances </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="74">are then derived for tuples, HLists, and case classes </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="100.93457">whose members have </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="100.93457">Composite</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="100.93457"> instances.</tspan>
+        </text>
+      </g>
+      <g id="Line_11">
+        <path d="M -585 144 L -720 252 L -718.8467 324" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_10">
+        <rect x="-895.0541" y="732" width="216" height="72" fill="#ffc0ff"/>
+        <rect x="-895.0541" y="732" width="216" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-890.0541 742)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="13.9" y="25">Array[Byte]</tspan>
+        </text>
+      </g>
+      <g id="Graphic_9">
+        <text transform="translate(-881.0541 779.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="74.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Graphic_8">
+        <text transform="translate(-621.97015 743)" fill="black">
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="21">Given </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="21">Meta[A]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="21"> and functions to and </tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" x="0" y="48">from some other type </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="48">B</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="48"> we can derive </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" x="0" y="75">Meta[B]</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="75"> via </tspan>
+          <tspan font-family="Fira Code" font-size="22" font-weight="400" fill="black" y="75">imap</tspan>
+          <tspan font-family="Times New Roman" font-size="22" font-style="italic" font-weight="400" fill="black" y="75">.</tspan>
+        </text>
+      </g>
+      <g id="Graphic_7">
+        <rect x="-895.0541" y="937" width="216" height="72" fill="#ffc0ff"/>
+        <rect x="-895.0541" y="937" width="216" height="72" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(-890.0541 947)" fill="black">
+          <tspan font-family="Fira Code" font-size="27" font-weight="400" fill="black" x="13.9" y="25">InetAddress</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <text transform="translate(-881.0541 984.5)" fill="black">
+          <tspan font-family="Fira Code" font-size="16" font-weight="400" fill="black" x="74.8" y="15">Meta</tspan>
+        </text>
+      </g>
+      <g id="Line_5">
+        <line x1="-787.0541" y1="814.4" x2="-787.0541" y2="926.6" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <rect x="-1029.0299" y="855" width="469" height="31" fill="#efefef"/>
+        <text transform="translate(-1024.0299 860)" fill="black">
+          <tspan font-family="Fira Code" font-size="17" font-weight="400" fill="black" x="0" y="16">.imap(InetAddress.getByAddress)(_.getAddress)</tspan>
+        </text>
+      </g>
+      <g id="Line_3">
+        <line x1="-434.3555" y1="609" x2="-433.701" y2="738" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,3.0" stroke-width="1"/>
+      </g>
     </g>
   </g>
 </svg>
