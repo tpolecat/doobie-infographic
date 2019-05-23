@@ -6,4 +6,4 @@ The `.pdf` export is probably what you want.
 
 The `.svg` export below is clickable to enlarge.
 
-![](https://cdn.rawgit.com/tpolecat/doobie-infographic/master/doobie.svg)
+![](https://cdn.rawgit.com/tpolecat/doobie-infographic/v0.6.0/doobie.svg)
